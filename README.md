@@ -25,7 +25,7 @@ This project is a console-based Food Reservation System implemented in C. The sy
   * Change Student's Password: Personnel can change the passwords of students.
   * Remove Student: Personnel can remove student accounts.
   * Deactivate Student: Personnel can deactivate student accounts.
-  * Define Self: Personnel can define their own information.
+  * Define Self: Personnel can define new selves that serve food.
   * Define Food: Personnel can define food items.
   * Define Meal Plan: Personnel can define meal plans.
   * Charge Student Account: Personnel can add funds to students' accounts.
